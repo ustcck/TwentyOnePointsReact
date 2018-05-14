@@ -32,9 +32,9 @@ spring:
         serialization.indent_output: true
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:mysql://localhost:3306/TwentyOnePointsReact?useUnicode=true&characterEncoding=utf8&useSSL=false
+        url: jdbc:mysql://120.27.49.184:3306/twentyone?useUnicode=true&characterEncoding=utf8&useSSL=false
         username: root
-        password:
+        password: Ck4438707%
         hikari:
             data-source-properties:
                 cachePrepStmts: true
